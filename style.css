@@ -146,6 +146,7 @@ a:active {
 .header-content {
     margin: 0 5%;
     color: var(--lightgray);
+    text-shadow: 1px 1px black;
 }
 
 .content-title {
