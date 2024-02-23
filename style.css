@@ -138,6 +138,7 @@ picture {
     background-image: url(./img/cover-img.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .header-title {
