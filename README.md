@@ -4,7 +4,7 @@
 
 This is a web portofolio of my friend Nuqi (Ibnu Hafiz Fadhilah) as to help me practice my front-end skill. Artworks and graphics presented are property of his and belong to their respective owner. Here I will try to keep the theme as similar as possible from the original portofolio.
 
-[Click here](https://module-1-rwandhika.netlify.app) for the website!
+[Click here](https://module-2-rwandhika.netlify.app) for the website!
 
 Raden Wisnu Andhika Pranidhia - Team 4
 
