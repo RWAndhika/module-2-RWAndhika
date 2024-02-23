@@ -145,8 +145,19 @@ picture {
     margin: 0 5%;
     padding-top: 10px;
     padding-bottom: 170px;
-    font-weight: normal;
     font-size: 5vw;
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+@keyframes slidein{
+    from {
+        margin-bottom: 100%;
+    }
+
+    to {
+        margin-bottom: 0%;
+    }
 }
 
 .header-content {
