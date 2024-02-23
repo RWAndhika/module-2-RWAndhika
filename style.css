@@ -55,6 +55,11 @@ a:active {
     text-decoration: none;
 }
 
+picture {
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     margin: 0 5%;
 }
