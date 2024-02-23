@@ -194,7 +194,16 @@ picture {
     width: 100%;
     margin-bottom: 25px;
     background-color: var(--black);
+    border: 1px solid var(--beige);
     color: var(--beige);
+    transition: all 0.25s ease;
+}
+
+.input-btn:hover {
+    background-color: var(--beige);
+    color: var(--black);
+    border: 1px solid var(--black);
+    cursor: pointer;
 }
 
 .footer-container {
