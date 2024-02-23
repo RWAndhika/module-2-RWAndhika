@@ -243,7 +243,7 @@ picture {
 }
 
 .input-btn:hover {
-    background-color: var(--beige);
+    background-color: white;
     color: var(--black);
     border: 1px solid var(--black);
     cursor: pointer;
